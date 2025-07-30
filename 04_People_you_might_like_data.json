@@ -1,0 +1,28 @@
+{
+  "users": [
+    { "id": 1,  "name": "Amit",    "liked_pages": [101, 102, 105] },
+    { "id": 2,  "name": "Priya",   "liked_pages": [102, 103, 106] },
+    { "id": 3,  "name": "Rahul",   "liked_pages": [101, 104, 107, 108] },
+    { "id": 4,  "name": "Sara",    "liked_pages": [103, 104, 109] },
+    { "id": 5,  "name": "Neha",    "liked_pages": [101, 103, 105, 110] },
+    { "id": 6,  "name": "Vikram",  "liked_pages": [102, 106, 108] },
+    { "id": 7,  "name": "Anjali",  "liked_pages": [104, 107, 109] },
+    { "id": 8,  "name": "Rohit",   "liked_pages": [101, 105, 106, 110] },
+    { "id": 9,  "name": "Sanya",   "liked_pages": [103, 109, 110] },
+    { "id": 10, "name": "Karan",   "liked_pages": [102, 104, 107] },
+    { "id": 11, "name": "Ritu",    "liked_pages": [101, 103, 106, 109] },
+    { "id": 12, "name": "Deepak",  "liked_pages": [102, 105, 108, 110] }
+  ],
+  "pages": [
+    { "id": 101, "name": "Python Developers" },
+    { "id": 102, "name": "Data Science Enthusiasts" },
+    { "id": 103, "name": "AI & ML Community" },
+    { "id": 104, "name": "Web Dev Hub" },
+    { "id": 105, "name": "Robotics Arena" },
+    { "id": 106, "name": "Cloud Computing Circle" },
+    { "id": 107, "name": "Startup Founders" },
+    { "id": 108, "name": "Cybersecurity Watch" },
+    { "id": 109, "name": "Digital Marketing Masters" },
+    { "id": 110, "name": "UX/UI Designers" }
+  ]
+}
