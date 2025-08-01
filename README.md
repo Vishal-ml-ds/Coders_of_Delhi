@@ -1,7 +1,7 @@
 # Social Network Analysis & Recommendation System in Python
 
 ## 📖 Project Overview
-This project is a comprehensive implementation of a social network analysis tool and a recommendation system, built entirely in Python. It includes features for data cleaning, friend recommendations ("People You May Know"), and content suggestions ("Pages You Might Like").
+This project is a comprehensive implementation of a social network analysis tool and a recommendation system, built entirely in Python. It includes features for data cleaning, friend recommendations ("People You May Know"), and content suggestions ("Pages You Might Like"). 
 
 ## 🚀 Features
 This project is broken down into several key components:
